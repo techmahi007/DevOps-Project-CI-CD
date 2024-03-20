@@ -10,7 +10,7 @@ div {text-align: center;}
 
 <h1 style="color:blue;"> Hello, Welcome to Our DevOps Project  </h1>
 <h1 style="color:blue;"> Added this line for testing purpose.</h1>
-<h1 style="color:blue;"> Version: 1.20 - Running on Ansible server</h1>
+<h1 style="color:blue;"> Version: 1.20 - Running on Ansible server to create container on Docker server</h1>
 </body>
 </html>
 
